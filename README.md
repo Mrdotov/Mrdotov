@@ -5,11 +5,11 @@
 
 
 <a src="https://github.com/Mrdotov">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mrdotov&show_icons=true&theme=tokyonight">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Mrdotov&show_icons=true&theme=tokyonight">
 
 </a>
 <a src="https://github.com/Mrdotov">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrdotov&layout=compact&theme=tokyonight"></a>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrdotov&layout=compact&theme=tokyonight"></a>
 
 ### Language and Tools 
 
