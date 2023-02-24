@@ -16,5 +16,5 @@
 </a>
 
 <a src="https://github.com/Mrdotov">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrdotov&layout=compact">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrdotov&layout=compact&theme=tokyonight">
 </a>
